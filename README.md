@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
    <img src="assets/hero.svg" alt="Dheeraj, Full Stack Developer" width="100%"/>
+-->
+   <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
