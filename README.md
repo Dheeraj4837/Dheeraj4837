@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
 -->
   
-[README.md](https://github.com/user-attachments/files/33594032/README.md)<p align="center">
+<p align="center">
   <img src="assets/hero-space.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
 </p>
 
