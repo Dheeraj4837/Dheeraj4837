@@ -16,5 +16,25 @@ Here are some ideas to get you started:
 -->
 <!--
    <img src="assets/hero.svg" alt="Dheeraj, Full Stack Developer" width="100%"/>
+    <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
 -->
-   <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
+  
+[README.md](https://github.com/user-attachments/files/33594032/README.md)<p align="center">
+  <img src="assets/hero-space.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
+</p>
+
+### About me
+
+I build full stack web applications with Java, Spring Boot, React and MySQL.
+Right now I am learning new technologies and improving my English communication.
+
+### Things I've built
+
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| [Project name](https://github.com/USERNAME/REPO) | One line about it | React, Spring Boot |
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-ID) · [Email](mailto:you@example.com)
+
