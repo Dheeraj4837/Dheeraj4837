@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   <img src="assets/hero-space.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
 </p>
 -->
-  
+  <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/hero-final.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
-</p>
+</p> -->
 
 ### About me
 
