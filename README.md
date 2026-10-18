@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="assets/Home.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
+  <img src="assets/hero-final.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
 </p>
 
 ### About me
