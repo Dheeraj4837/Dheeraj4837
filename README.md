@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
   <img src="assets/hero-final-small.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
 <p align="center">
-  <img src="assets/about.svg" alt="About Dheeraj Kumar: Front-end Engineer and UI/UX Designer. Projects: E-Gyan Portal, InvestIQ and 3D Portfolio." width="100%"/>
+  <img src="assets/about2.svg" alt="About Dheeraj Kumar: Front-end Engineer and UI/UX Designer. Projects: E-Gyan Portal, InvestIQ and 3D Portfolio." width="100%"/>
 </p>
 
 <!-- <p align="center">
