@@ -14,21 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-   <img src="assets/hero.svg" alt="Dheeraj, Full Stack Developer" width="100%"/>
-    <img src="assets/hero-animated.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
-    <p align="center">
-  <img src="assets/hero-space.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
-</p>
--->
-  <img src="assets/hero-final-small.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
-<p align="center">
-  <img src="assets/about2.svg" alt="About Dheeraj Kumar: Front-end Engineer and UI/UX Designer. Projects: E-Gyan Portal, InvestIQ and 3D Portfolio." width="100%"/>
-</p>
+ <img src="assets/hero-final-small.svg" alt="Hello! I am Dheeraj Kumar" width="100%"/>
 
-<!-- <p align="center">
-  <img src="assets/hero-final.svg" alt="Hello! I am Dheeraj Kumar. A designer who judges a book by its cover." width="100%"/>
-</p> -->
 
 
 
